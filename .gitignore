@@ -2,16 +2,24 @@
 .DS_Store
 .AppleDouble
 .LSOverride
+Thumbs.db
 
-# Node.js
+# Node.js / Dependencies
 node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
 # Playwright
 test-results/
 playwright-report/
+blob-report/
 playwright/.cache/
 
 # TypeScript
@@ -21,3 +29,6 @@ dist/
 # Environment
 .env
 .env.local
+
+# Gemini/AI local data
+.gemini/
