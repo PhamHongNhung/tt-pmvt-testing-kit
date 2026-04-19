@@ -1,6 +1,9 @@
 B1. Install NodeJS
+
 B2. Install AI Antigravity
+
 B3. Kết nối với tài khoản antigravity
+
 <!-- Gen từng API -->
 B4. Update curl vào file agent/apis/curl.md
 <!-- Đưa prompt gen testcase -->
