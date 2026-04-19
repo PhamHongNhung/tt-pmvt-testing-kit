@@ -1,0 +1,17 @@
+curl 'https://mydio.vn/v1/payment/public/packages?paymentChannel=mps&device_id=NWQ4Yjg3Y2UtODgyNi00YWJhLWFhYTYtZTk3NDAzNGFlOGQ1LFdFQiwzLjA%3D' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-GB,en;q=0.9,vi-VN;q=0.8,vi;q=0.7,ko-KR;q=0.6,ko;q=0.5,fr-FR;q=0.4,fr;q=0.3,en-US;q=0.2' \
+  -H 'access-control-allow-methods: GET' \
+  -H 'access-control-allow-origin: *' \
+  -H 'authorization: Bearer xxx' \
+  -H 'cache-control: no-store' \
+  -b '_ga=GA1.1.853778198.1733753302; _ga_JGBP5L91WZ=GS1.1.1745335834.6.1.1745336364.0.0.0; mydio.deviceId=NWQ4Yjg3Y2UtODgyNi00YWJhLWFhYTYtZTk3NDAzNGFlOGQ1LFdFQiwzLjA%3D; _ga_LE7VLLQ0J5=GS2.1.s1776565958$o19$g1$t1776566118$j57$l0$h0' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://mydio.vn/goi-cuoc' \
+  -H 'sec-ch-ua: "Google Chrome";v="147", "Not.A/Brand";v="8", "Chromium";v="147"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36'
